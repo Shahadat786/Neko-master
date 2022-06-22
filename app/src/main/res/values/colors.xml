@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Colors -->
+    <color name="primaryVariantTachiyomi">@color/md_white_1000</color>
+    <color name="colorPrimaryInactive">#C2424242</color>
+    <color name="primaryTachiyomi">@color/neko_primary</color>
+    <color name="primaryInverseTachiyomi">@color/neko_primary</color>
+    <color name="splashBackground">@color/primaryTachiyomi</color>
+    <color name="secondaryTachiyomi">@color/neko_accent</color>
+    <color name="rippleColorTachiyomi">@color/md_black_1000_54</color>
+    <color name="secondaryVariantTachiyomi">@color/neko_primary</color>
+    <color name="actionModeShadow">@color/md_black_1000_38</color>
+    <color name="gray_button">#404040</color>
+    <color name="material_red_500">#F44336</color>
+    <color name="material_green_800">#2E7D32</color>
+
+    <color name="gray">#404040</color>
+
+
+    <color name="read_chapter">@color/material_on_background_disabled</color>
+
+    <color name="total_badge">@color/neko_green_complementary</color>
+    <color name="total_badge_text">@color/md_white_1000</color>
+
+    <color name="colorAmoledPrimary">@color/md_black_1000</color>
+
+    <color name="textColorPrimaryInverse">@color/md_white_1000</color>
+
+    <color name="strong_divider">@color/md_black_1000_38</color>
+    <color name="divider">@color/md_black_1000_12</color>
+    <color name="download">@color/neko_green</color>
+
+    <color name="background">@color/md_grey_50</color>
+    <color name="dialog">@color/md_white_1000</color>
+    <color name="splashIcon">@color/md_black_1000</color>
+    <color name="colorOnSurface">@color/md_black_1000</color>
+    <color name="colorOnBackground">@color/md_black_1000_87</color>
+
+
+    <color name="elevated_dark_background">#121212</color>
+
+    <!-- Text Colors -->
+    <color name="md_black_1000_87">#DE000000</color>
+    <color name="md_black_1000_54">#8A000000</color>
+    <color name="md_black_1000_38">#61000000</color>
+    <color name="md_black_1000_12">#1F000000</color>
+
+    <color name="md_white_1000">#FFFFFFFF</color>
+    <color name="md_white_1000_76">#C2FFFFFF</color>
+    <color name="md_white_1000_54">#8AFFFFFF</color>
+    <color name="md_white_1000_50">#80FFFFFF</color>
+    <color name="md_white_1000_20">#33FFFFFF</color>
+    <color name="md_white_1000_38">#61FFFFFF</color>
+    <color name="md_white_1000_12">#1FFFFFFF</color>
+
+    <!-- Material Design Colors -->
+    <color name="md_black_1000">#000000</color>
+
+    <color name="md_grey_50">#FAFAFA</color>
+
+    <color name="md_blue_A400">#2979FF</color>
+
+    <color name="md_red_500">#F44336</color>
+    <color name="holo_red">#AA2200</color>
+    <color name="primaryRed">#C14033</color>
+
+    <color name="pale_green">#99CC99</color>
+    <color name="strong_green">#106010</color>
+
+    <!-- Navigation overlay colors -->
+    <color name="navigation_menu">#CC95818D</color>
+    <color name="navigation_next">#CCA6CFD5</color>
+    <color name="navigation_prev">#CC7D1128</color>
+
+    <!-- Spring Blossom -->
+    <color name="primaryDuskDawn">#a149bf</color>
+    <color name="primaryInverseDuskDawn">#cd95e0</color>
+    <color name="secondaryDuskDawn">#c43c97</color>
+    <color name="rippleColorDuskDawn">#1Fc43c97</color>
+    <color name="secondaryVariantDuskDawn">#4c163a</color>
+    <color name="backgroundDuskDawn">#f7f4f8</color>
+    <color name="primaryVariantDuskDawn">#efe3f3</color>
+    <color name="colorOnBackgroundDuskDawn">#DE240728</color>
+    <color name="appBarTextDuskDawn">#DE4c0d4b</color>
+
+    <!-- Teal/Sapphire Theme -->
+    <color name="secondaryTealSapphire">#05B1A4</color>
+    <color name="rippleColorTealSapphire">#1F05B1A4</color>
+    <color name="secondaryVariantTealSapphire">#12524b</color>
+    <color name="primaryTealSapphire">#5f9c96</color>
+    <color name="primaryInverseTealSapphire">#a1e1db</color>
+    <color name="primaryVariantTealSapphire">#d4f1e6</color>
+    <color name="backgroundTealSapphire">#f0f7f7</color>
+    <color name="colorOnBackgroundTealSapphire">#DE072926</color>
+    <color name="tabBarIconColorTealSapphire">#DE072927</color>
+    <color name="appBarTextTealSapphire">#DE0a302e</color>
+
+    <!-- Flat Lime Theme -->
+    <color name="primaryLime">#57BD79</color>
+    <color name="primaryVariantLime">#D9ECE0</color>
+    <color name="primaryInverseLime">#AEDFC0</color>
+    <color name="secondaryLime">#1DA750</color>
+    <color name="secondaryVariantLime">#065124</color>
+    <color name="rippleColorLime">#1F4AF88A</color>
+    <color name="backgroundLime">#E9EFEB</color>
+    <color name="downloadBadgeLime">#80CAD3</color>
+
+    <!-- Grey Wolf -->
+    <color name="greyWolfSecondary">#636363</color>
+
+
+    <!--Outrun theme -->
+    <color name="outrun_pink">#dd546e</color>
+    <color name="outrun_blush">#C06C84</color>
+    <color name="outrun_blue">#202146</color>
+    <color name="outrun_black">#170c32</color>
+    <color name="outrun_dark_purple">#201147</color>
+
+
+    <color name="neko_primary">#101820</color>
+    <color name="neko_accent">#101820</color>
+    <color name="neko_variant">#2E2157</color>
+
+
+    <color name="neko_green">#3DDA83</color>
+    <color name="neko_green_complementary">#aa206c</color>
+    <color name="neko_green_darker">#20aa5e</color>
+    <color name="gold">#D4AF37</color>
+
+    <color name="splash_background">#FF6784</color>
+
+
+    <color name="neko_miami_primary">#41B6E6</color>
+    <color name="neko_miami_primary_variant">#000000</color>
+    <color name="neko_miami_status">#241734</color>
+    <color name="neko_miami_accent">#DB3EB1</color>
+    <color name="neko_miami_dark_accent">#AFDB3EB1</color>
+    <color name="neko_miami_badge_1">#F706CF</color>
+
+    <!-- Strawberry Daiquiri Theme -->
+    <color name="primaryStrawberry">#d31d3b</color>
+    <color name="primaryVariantStrawberry">#F3E7E7</color>
+    <color name="primaryInverseStrawberry">#ef8e9e</color>
+    <color name="secondaryStrawberry">#ED4A65</color>
+    <color name="rippleColorStrawberry">#1FED4A65</color>
+    <color name="secondaryVariantStrawberry">#68101f</color>
+    <color name="backgroundStrawberries">@color/background</color>
+
+    <!-- Tako Theme -->
+    <color name="primaryTako">#463561</color>
+    <color name="primaryVariantTako">#E5DCF4</color>
+    <color name="primaryInverseTako">#ac8fd9</color>
+    <color name="secondaryTako">#66577E</color>
+    <color name="onSecondaryTako">#F3B375</color>
+    <color name="secondaryVariantTako">#3f2b49</color>
+    <color name="tabBarIconColorTako">#574360</color>
+    <color name="rippleColorTako">#1F66577E</color>
+    <color name="surfaceTako">#F7F5FF</color>
+    <color name="backgroundTako">#F2EDF7</color>
+    <color name="actionTintTako">#221b28</color>
+    <color name="inactiveTabTako">#C2221b28</color>
+
+    <!-- MangaDex Theme -->
+    <color name="secondaryMangaDex">#FF6740</color>
+
+    <color name="new_neko_accent">#FF6784</color>
+
+</resources>

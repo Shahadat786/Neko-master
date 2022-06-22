@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="reader_pager" type="id" />
+    <item name="external_items_id" type="id" />
+    <item name="merge_search_item" type="id" />
+</resources>
